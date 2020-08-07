@@ -1,0 +1,31 @@
+.table {
+    width: 100%;
+    font-size: 14px;
+    height: 600px;
+    overflow-y: scroll;
+    border-spacing: 0px;
+    display: block;
+    border: 0 solid #e2e8f0;
+}
+.table::-webkit-scrollbar {
+    display: none;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+.table_head_sort {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+
+}
+
+.table_icon {
+    margin-left: 5px;
+}
+
+  

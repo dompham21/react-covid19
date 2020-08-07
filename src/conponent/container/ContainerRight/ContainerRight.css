@@ -1,0 +1,11 @@
+.container_right {
+    margin-left: 20px;
+    width: 100%;
+    height: auto;
+}
+ .table_title {
+    color: #108885;
+    padding: .5rem;
+    font-weight: 700;
+    border-left: #108885 solid 5px;
+ }
